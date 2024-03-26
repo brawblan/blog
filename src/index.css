@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+ul,
+ul li {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: none;
+  list-style: none;
+}
+
+.placeholder-card {
+  margin: 2rem auto;
+  height: 20%;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
